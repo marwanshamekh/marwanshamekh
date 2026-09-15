@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Marwan Shamekh</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.marwanshamekh.me/](https://www.marwanshamekh.me/)
+- 👨‍💻 All of my projects are available at [marwanshamekh.me](https://www.marwanshamekh.me/)
 
 - 📫 How to reach me **marwanmuhmmed25122007@gmail.com**
 
